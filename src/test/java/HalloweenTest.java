@@ -11,4 +11,6 @@ public class HalloweenTest {
 
     //line2
 
+    // message from magic branch
+
 }
