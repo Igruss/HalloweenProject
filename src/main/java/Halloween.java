@@ -4,6 +4,8 @@ public class Halloween {
 
 
         System.out.println("Hello World");
+
+        // adding a comment from Master branch
     }
 
 }
