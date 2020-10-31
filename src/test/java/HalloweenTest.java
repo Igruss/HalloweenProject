@@ -9,5 +9,6 @@ public class HalloweenTest {
 
     //line1
 
+    //line2
 
 }
